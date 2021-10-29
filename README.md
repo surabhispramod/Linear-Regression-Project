@@ -1,2 +1,2 @@
 # Linear-Regression-Project
-Bengaluru Air Quality_Prediction using the concept of Linear regression and Python
+Bengaluru Air Quality_Analysis using the concept of Linear regression and Python
